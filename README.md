@@ -5,7 +5,7 @@
 
 Please refer to the project report pdf file for detailed summary.
 
-Features:
+Features:-
 * User Registry – Maintains a list of registered users in our database and allows
 only those users to use our application.
 * Dynamic Rooms – The rooms are created dynamically giving users the freedom
