@@ -1,4 +1,4 @@
-# Video-conferencing-web-application
+# Video-conferencing-web-application.
 * Developed a WebRTC enabled multi-party video conferencing and web chat application
 * Enhanced app by adding collaborative drawing canvas, presentation sharing and video sharing.
 * Optimized application for low-bandwidth scenarios by providing an optional audio stream only toggle.
