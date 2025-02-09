@@ -31,7 +31,7 @@ Modes:
 * Videos Mode – Displays the video stream from the cameras of all the other
 meeting participants.
 * Canvas Mode – Allows the current controller to add, manipulate and delete
-objects on the canvas which will be visible to all the other users.
+objects on the canvas which will be visible to all the other users...
 Page 4NG-I2I, Real Time Communication with WebRTC
 * Presentation Mode - Allows the current controller to present a presentation
 which will be visible to all the other users.
